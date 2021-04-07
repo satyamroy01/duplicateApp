@@ -1,0 +1,4 @@
+Dname=org.postgresql.Driver
+URL=jdbc:postgresql://10.25.4.45/FOREST_SURVEYOR
+Uname=mumbai_test
+password=db@mumbai157
